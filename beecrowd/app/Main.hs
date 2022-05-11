@@ -1,6 +1,6 @@
 module Main where
 
-import Difference
+import Salary
 
 main :: IO ()
 main = fun
