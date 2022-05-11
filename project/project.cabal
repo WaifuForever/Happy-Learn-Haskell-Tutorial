@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       AreaOfaCircle
+      Average1
       ExtremelyBasic
       HelloWorld
       SimpleProduct

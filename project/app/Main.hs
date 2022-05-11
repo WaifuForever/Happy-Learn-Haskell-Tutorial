@@ -1,6 +1,6 @@
 module Main where
 
-import SimpleProduct
+import Average1
 
 main :: IO ()
 main = fun
