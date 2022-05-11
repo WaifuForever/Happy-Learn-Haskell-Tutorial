@@ -1,6 +1,6 @@
 module Main where
 
-import Average2
+import Difference
 
 main :: IO ()
 main = fun
