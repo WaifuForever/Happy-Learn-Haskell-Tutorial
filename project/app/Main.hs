@@ -1,6 +1,6 @@
 module Main where
 
-import AreaOfaCircle
+import SimpleSum
 
 main :: IO ()
 main = fun
