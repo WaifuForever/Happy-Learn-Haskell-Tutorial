@@ -14,5 +14,5 @@ readADouble = readLn
 fun = do
     a <- readADouble
     b <- readADouble
-    printf "MEDIA = %.5f" (average a b)
+    printf "MEDIA = %.5f\n" (average a b)
     

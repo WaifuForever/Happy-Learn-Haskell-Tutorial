@@ -27,6 +27,7 @@ library
   exposed-modules:
       AreaOfaCircle
       Average1
+      Average2
       ExtremelyBasic
       HelloWorld
       SimpleProduct
