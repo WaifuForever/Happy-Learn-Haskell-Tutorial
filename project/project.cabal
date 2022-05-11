@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      AreaOfaCircle
       ExtremelyBasic
       HelloWorld
   other-modules:

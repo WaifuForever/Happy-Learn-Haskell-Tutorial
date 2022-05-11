@@ -1,6 +1,6 @@
 module Main where
 
-import HelloWorld
+import AreaOfaCircle
 
 main :: IO ()
 main = fun
