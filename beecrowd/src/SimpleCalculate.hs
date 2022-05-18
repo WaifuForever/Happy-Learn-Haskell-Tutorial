@@ -6,7 +6,8 @@ import Text.Printf
 -- https://www.beecrowd.com.br/judge/en/problems/view/1010
 
 calc :: (Int, Int, Float) -> (Int, Int, Float) -> Float
-calc (_, x1, y1) (_, x2, y2) = fromIntegral (x1) * y1 + fromIntegral(x2) * y2 
+calc (o1, x1, y1) (o2, x2, y2) =
+   seq o1 $ seq o2 $ fromIntegral x1 * y1 + fromIntegral x2 * y2
   
 readProduct :: IO [String]
 readProduct = do
