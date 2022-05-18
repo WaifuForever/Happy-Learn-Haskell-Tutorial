@@ -33,6 +33,7 @@ library
       HelloWorld
       Salary
       SalaryWithBonus
+      SimpleCalculate
       SimpleProduct
       SimpleSum
   other-modules:

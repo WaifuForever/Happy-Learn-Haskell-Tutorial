@@ -1,6 +1,6 @@
 module Main where
 
-import SalaryWithBonus
+import SimpleCalculate
 
 main :: IO ()
 main = fun
