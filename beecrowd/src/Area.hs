@@ -32,5 +32,5 @@ fun = do
     printf "CIRCULO: %.3f\n" (circle (input !! 2))
     printf "TRAPEZIO: %.3f\n" (trapezoid (input !! 0) (input !! 1) (input !! 2))
     printf "QUADRADO: %.3f\n" (square (input !! 1))
-    printf "TRIANGULO: %.3f\n" (rectangle (input !! 0) (input !! 1))
+    printf "RETANGULO: %.3f\n" (rectangle (input !! 0) (input !! 1))
     
