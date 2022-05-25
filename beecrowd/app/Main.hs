@@ -1,6 +1,6 @@
 module Main where
 
-import Consumption
+import DistanceBetweenTwoPoints
 
 main :: IO ()
 main = fun
