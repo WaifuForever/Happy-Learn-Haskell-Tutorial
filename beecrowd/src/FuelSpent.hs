@@ -1,7 +1,7 @@
 module FuelSpent
     ( fun
     ) where
---https://www.beecrowd.com.br/judge/en/problems/view/10177
+--https://www.beecrowd.com.br/judge/en/problems/view/1017
 import Text.Printf
 
 calc :: Int -> Int -> Float
