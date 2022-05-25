@@ -36,6 +36,7 @@ library
       SimpleCalculate
       SimpleProduct
       SimpleSum
+      Sphere
   other-modules:
       Paths_project
   hs-source-dirs:

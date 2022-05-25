@@ -1,6 +1,6 @@
 module Main where
 
-import SimpleCalculate
+import Sphere
 
 main :: IO ()
 main = fun
