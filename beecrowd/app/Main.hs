@@ -1,6 +1,6 @@
 module Main where
 
-import Sphere
+import Area
 
 main :: IO ()
 main = fun
