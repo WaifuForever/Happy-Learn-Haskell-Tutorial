@@ -1,6 +1,6 @@
 module Main where
 
-import TheGreatest
+import Consumption
 
 main :: IO ()
 main = fun
