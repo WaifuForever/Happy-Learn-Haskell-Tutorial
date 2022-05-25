@@ -1,6 +1,6 @@
 module Main where
 
-import Distance
+import FuelSpent
 
 main :: IO ()
 main = fun

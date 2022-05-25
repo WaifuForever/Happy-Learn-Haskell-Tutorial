@@ -34,6 +34,7 @@ library
       Distance
       DistanceBetweenTwoPoints
       ExtremelyBasic
+      FuelSpent
       HelloWorld
       Salary
       SalaryWithBonus
