@@ -31,6 +31,7 @@ library
       Average2
       Consumption
       Difference
+      Distance
       DistanceBetweenTwoPoints
       ExtremelyBasic
       HelloWorld

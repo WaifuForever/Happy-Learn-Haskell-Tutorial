@@ -1,6 +1,6 @@
 module Main where
 
-import DistanceBetweenTwoPoints
+import Distance
 
 main :: IO ()
 main = fun
