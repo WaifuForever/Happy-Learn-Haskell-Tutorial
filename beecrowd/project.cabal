@@ -38,6 +38,7 @@ library
       SimpleProduct
       SimpleSum
       Sphere
+      TheGreatest
   other-modules:
       Paths_project
   hs-source-dirs:

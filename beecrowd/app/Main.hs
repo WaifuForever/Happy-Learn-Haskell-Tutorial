@@ -1,6 +1,6 @@
 module Main where
 
-import Area
+import TheGreatest
 
 main :: IO ()
 main = fun
