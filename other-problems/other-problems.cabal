@@ -26,12 +26,14 @@ source-repository head
 library
   exposed-modules:
       UniquePath
+      Variance
   other-modules:
       Paths_other_problems
   hs-source-dirs:
       src
   build-depends:
       base >=4.7 && <5
+    , random
   default-language: Haskell2010
 
 executable other-problems-exe
@@ -44,6 +46,7 @@ executable other-problems-exe
   build-depends:
       base >=4.7 && <5
     , other-problems
+    , random
   default-language: Haskell2010
 
 test-suite other-problems-test
@@ -57,4 +60,5 @@ test-suite other-problems-test
   build-depends:
       base >=4.7 && <5
     , other-problems
+    , random
   default-language: Haskell2010

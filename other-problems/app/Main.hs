@@ -1,6 +1,6 @@
 module Main where
 
-import UniquePath
+import Variance
 
 main :: IO ()
 main = fun
